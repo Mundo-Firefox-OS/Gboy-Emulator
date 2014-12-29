@@ -1,0 +1,15 @@
+{
+  "name": "GBoy Emulator",
+  "description": "Emulador de GameBoy Color",
+  "launch_path": "/index.html",
+  "fullscreen": "true",
+  "icons": {
+    "128": "/images/128.png"
+  },
+  "developer": {
+    "name": "Robert Bierkamp",
+    "url": "http://mundofirefoxos.com/"
+  },
+  "default_locale": "es",
+  "orientation": ["portrait-primary"]
+}
