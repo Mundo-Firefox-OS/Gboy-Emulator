@@ -1,3 +1,6 @@
+d_pad {
+  -moz-user-select: none;
+}
 html, body {
   margin: 0;
   padding: 0;
